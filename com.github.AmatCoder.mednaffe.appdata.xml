@@ -49,6 +49,12 @@
   <url type="homepage">https://github.com/AmatCoder/mednaffe</url>
   <content_rating type="oars-1.1"/>
   <releases>
+    <release date="2021-11-30" version="0.9.2-1.27.1"/>
+      <description>
+        <ul>
+          <li>Mednaffe front-end upgraded to 0.9.2</li>
+        </ul>
+      </description>
     <release date="2021-06-15" version="0.9.1-2"/>
       <description>
         <ul>

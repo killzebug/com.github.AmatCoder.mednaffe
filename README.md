@@ -1,11 +1,12 @@
 # Mednaffe packaged for Flatpak
 
 This is a Flatpak for [Mednaffe](https://github.com/AmatCoder/mednaffe).
+
 [Mednafen emulator](https://mednafen.github.io) is included.
 
 ## Installing from Flathub
 
-This package is available on [Flathub](https://www.flathub.org).
+This package is available on [Flathub](https://flathub.org/apps/details/com.github.AmatCoder.mednaffe).
 
 To install, enter the following command in your terminal:
 
