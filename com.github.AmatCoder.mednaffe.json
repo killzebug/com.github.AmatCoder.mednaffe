@@ -2,7 +2,7 @@
     "app-id": "com.github.AmatCoder.mednaffe",
     "command": "mednaffe",
     "runtime": "org.freedesktop.Platform",
-    "runtime-version": "21.08",
+    "runtime-version": "23.08",
     "sdk": "org.freedesktop.Sdk",
     "rename-desktop-file": "mednaffe.desktop",
     "rename-icon": "mednaffe",
